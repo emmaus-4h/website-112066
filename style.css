@@ -5,10 +5,8 @@ html, body {
     padding: 0;
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
-    background-image: url(afbeeldingen/background.jpg);
-    background-repeat: no-repeat;
-    background-size: 1920px;
     margin: 0px 0px 0px;
+    background-color: lightgrey;
 }
 
 main {
@@ -17,8 +15,7 @@ main {
 }
 
 nav {
-width: 100%;
-
+    width: 100%;
 }
 
 article {
